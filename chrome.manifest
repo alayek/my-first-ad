@@ -1,0 +1,4 @@
+content My-First-Addon-colors ./
+locale My-First-Addon-colors en-US locale/en-US/
+locale My-First-Addon-colors en-GB locale/en-GB/
+locale My-First-Addon-colors bn-BD locale/bn-BD/
